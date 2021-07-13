@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @guidjelegamba
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ... Python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning Python
+- 📫 How to reach me guidjelegamba@gmail.com
 
 <!---
 guidjelegamba/guidjelegamba is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
