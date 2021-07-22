@@ -43,8 +43,8 @@ while verificaEstadoCivil == False:
 
 print()    
 print("Nome:", nome)
-print("Idade:", idade)
-print("Salário:", salario)
+print("Idade:", idade, "anos")
+print("Salário: R$", salario)
 if sexo == "f":
     print("Sexo: Feminino")    
 else:
